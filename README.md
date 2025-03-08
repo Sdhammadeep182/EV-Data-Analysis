@@ -1,5 +1,15 @@
 # EV-Data-Analysis - Using Tableau
 
+## Table Of Content
+
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Tool Used](#tool-used)
+- [KPI's](#kpis)
+- [Steps Taken](#steps-taken)
+- [Important Outcomes](#important-outcomes)
+- [Dashboard Screenshot](#dashboard-screenshot)
+
 ## Project Overview
 
 In this project we will find the different types of Electric Vehicles produced in the US market with all the specification as per the slected filter sections used. We will see the performance of each vehicle by specific model and make.
