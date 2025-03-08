@@ -24,4 +24,17 @@ Here i used MS excel for data trensformation and for getting all the analysis an
 -	Total Vehicles by CAFV Eligibility 
 -	Total Vehicles by Model
 
+## Steps Taken 
+
+- First of all we need to load our raw data file in Excel.
+- Next we check the data for any duplicate values or null values.
+- We clean the null values or duplicate values to get better accuracy in results.
+- First of all we need to load our raw data file in Tableau.
+- Next we start analysing the data set according to the given KPI's using Tableau Worksheets.
+- With the help of worksheets, we can create some important charts by using drag and drop of important rows and columns for better understanding the results.
+- We can use filter for required results for some specific values.
+- With the help of filters we can get the result as our requirement.
+- After preparing all the data results as per the KPI's we can start building the actionable dashboard.
+- We can link the design sheet with the dashboard for actionable results.
+
 
