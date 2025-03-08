@@ -37,4 +37,18 @@ Here i used MS excel for data trensformation and for getting all the analysis an
 - After preparing all the data results as per the KPI's we can start building the actionable dashboard.
 - We can link the design sheet with the dashboard for actionable results.
 
+## Important Outcomes
+
+- Total Vehicles          = 1,50,413
+- AVG Electric Range      = 67.83 Miles
+- Total BEV Vehicles      = 1,16,745  in percentage = 77.6%
+- Total PHEV Vehicles     = 33,668    in percentage = 22.4%
+
+Rest of the things are given in the data file which is uploaded...
+
+## Dashboard Screenshot
+
+<img width="1212" alt="EV dashboard" src="https://github.com/user-attachments/assets/ac6180a2-8c4e-4110-9670-755851b9563e" />
+
+
 
