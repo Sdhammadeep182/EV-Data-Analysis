@@ -1,4 +1,4 @@
-# EV_Data_Analysis - Using Tableau
+# EV-Data-Analysis - Using Tableau
 
 ## Project Overview
 
